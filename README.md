@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 <p>
-  Hi, my name is Kirill! I'm really keen on programming and doing it for last 3 years. <br>
+  Hi, my name is Kirill! I'm really keen on programming and doing it for last 2 years. <br>
   I started my way with Sololearn Python course, but now I'm learning frontend on React.js <br>
   Also I have a lot of hobbies, for example, big / table tennis, drawing and playing the guitar. <br>
   Thanks for your attention, I hope you will enjoy my code! 
