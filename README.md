@@ -16,6 +16,7 @@
   <li>JavaScript</li>
   <li>REACT.js + TypeScript</li>
   <li>HTML | CSS</li>
+  <li>Tailwind</li>
   <li>Python</li>
 </ul>
   
